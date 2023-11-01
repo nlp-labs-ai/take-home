@@ -17,3 +17,6 @@ To help you build the prototype, here are some libraries and tools to help you g
 * [https://www.llamaindex.ai/](LlamaIndex)
 * [https://www.langchain.com/](Langchain)
 * [https://sec-edgar-downloader.readthedocs.io/en/latest](SEC Edgar Downloader)
+
+
+Since this assignment is quite product focused and a throwaway prototype, we'd advise to spend less time on engineering abstractions/unit testing/making the UI look pretty and more on thinking critically on what you want to learn from analysts using the prototype.
