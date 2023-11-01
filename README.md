@@ -16,4 +16,4 @@ Before spending weeks to engineer a solution, you decide it's better to come up 
 To help you build the prototype, here are some libraries and tools to help you get started:
 * [https://www.llamaindex.ai/](LlamaIndex)
 * [https://www.langchain.com/](Langchain)
-* [https://sec-edgar-downloader.readthedocs.io/en/latest/](SEC Edgar Downloader)
+* [https://sec-edgar-downloader.readthedocs.io/en/latest](SEC Edgar Downloader)
