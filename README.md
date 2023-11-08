@@ -15,7 +15,11 @@ Your work for an AI fintech company that is looking to build an AI-enabled produ
 
 You and your team think that solving the problem of extracting information from 10-K filings would be a huge value add to the company's product/platform. 
 
-Before spending weeks to engineer a complete solution, you decide it's better to come up with a quick prototype that an analyst can get their hands on and execute some queries. The goal of the prototype is to allow your team learn/obseve/measure how a user would use such a research tool and use the data to come up with next features/requirements.
+Before spending weeks to engineer a complete solution, you decide it's better to come up with a quick prototype that an analyst can get their hands on and execute some queries.
+
+Your goal is to build a prototype that does the following:
+* Allow the user to execute queries against 10-K documents
+* Log user behavior such that it would allow your team 1) understand if the returned query results were useful and 2) inform future ideas to work on. 
 
 To help you build the prototype, here are some libraries and tools to help you get started but feel free to use any tool:
 * [LlamaIndex](https://www.llamaindex.ai/)
