@@ -18,6 +18,7 @@ You and your team think that solving the problem of extracting information from 
 Before spending weeks to engineer a complete solution, you decide it's better to come up with a quick prototype that an analyst can get their hands on and execute some queries.
 
 Your goal is to build a prototype that does the following:
+
 * Allow the user to execute queries against 10-K documents
 * Log user behavior such that it would allow your team 1) understand if the returned query results were useful and 2) inform future ideas to work on. 
 
